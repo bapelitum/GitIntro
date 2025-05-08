@@ -1,3 +1,3 @@
 # GitIntro
-my girst git repository
+this my girst git repository
 Hallo Welt!
